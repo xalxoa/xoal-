@@ -1,0 +1,19 @@
+move right right arrow echo "# xal" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/xalxoa/xal.git
+git push -u origin main
+move up ;;w;;
+move down ;;s;;
+move left ;;a;;
+move right ;;d;;
+move forward up arrow
+move backwards down arrow
+move left left arrow
+move right right arrow 
+speed ;;1-200;;
+colors red,black,rainbow,brown,green,purple,pink,white
+fruits ,pineapple,apple,greenpepper,redpepper,hotdog,pumpkin,cati
+how many fruits to eat 1,3,5,10,40,80,100,300,1000,9998
